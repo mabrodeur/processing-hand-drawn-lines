@@ -1,5 +1,5 @@
 /**
-* Project : hand-drawn-lines-processing
+* Project : processing-hand-drawn-lines
 * Author : marcantoinebrodeur
 * Version : 1.0.0
 * Date : 12-11-2014
